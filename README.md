@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sasini Perera.
 
-
+![](https://komarev.com/ghpvc/?username=your-github-chamalka123)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Repositories,Commits,PullRequest,Issues,Stars)
 
