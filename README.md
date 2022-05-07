@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-chamalka123)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rhy-ma&title=Repositories,Commits,PullRequest,Issues,Stars)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Repositories,Commits,PullRequest,Issues,Stars)
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chamalka123&layout=compact)
